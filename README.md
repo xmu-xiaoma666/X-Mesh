@@ -71,3 +71,16 @@ A 3D rendering of a brown owl standing on a trunk in unreal engine.
 <p float="center">
 A 3D rendering of a crocodile in unreal engine.
 </p>
+
+
+## Citation
+```
+@misc{ma2023xmesh,
+      title={X-Mesh: Towards Fast and Accurate Text-driven 3D Stylization via Dynamic Textual Guidance}, 
+      author={Yiwei Ma and Xiaioqing Zhang and Xiaoshuai Sun and Jiayi Ji and Haowei Wang and Guannan Jiang and Weilin Zhuang and Rongrong Ji},
+      year={2023},
+      eprint={2303.15764},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
