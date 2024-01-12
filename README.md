@@ -148,12 +148,12 @@ A 3D rendering of a crocodile in unreal engine.
 
 ## Citation
 ```
-@misc{ma2023xmesh,
-      title={X-Mesh: Towards Fast and Accurate Text-driven 3D Stylization via Dynamic Textual Guidance}, 
-      author={Yiwei Ma and Xiaioqing Zhang and Xiaoshuai Sun and Jiayi Ji and Haowei Wang and Guannan Jiang and Weilin Zhuang and Rongrong Ji},
-      year={2023},
-      eprint={2303.15764},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{Ma_2023_ICCV,
+    author    = {Ma, Yiwei and Zhang, Xiaoqing and Sun, Xiaoshuai and Ji, Jiayi and Wang, Haowei and Jiang, Guannan and Zhuang, Weilin and Ji, Rongrong},
+    title     = {X-Mesh: Towards Fast and Accurate Text-driven 3D Stylization via Dynamic Textual Guidance},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {2749-2760}
 }
 ```
